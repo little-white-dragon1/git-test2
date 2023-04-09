@@ -6,5 +6,6 @@ public class test {
         System.out.println("你好，git2");
         System.out.println("你好，master");
         System.out.println("你好，hot-fix");
+        System.out.println("你好，github!");
     }
 }
